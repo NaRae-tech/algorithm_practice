@@ -1,2 +1,3 @@
-﻿  How_many_words.cpp
+﻿  croatia_alphabet.cpp
+c:\users\ynr87\source\repos\baekjoon\baekjoon\croatia_alphabet.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   baekjoon.vcxproj -> C:\Users\ynr87\source\repos\baekjoon\Debug\baekjoon.exe
